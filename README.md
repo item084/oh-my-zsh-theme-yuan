@@ -1,5 +1,5 @@
 # oh-my-zsh-theme-yuan
-An oh-my-zsh theme
+A customized oh-my-zsh theme by modifying [agnoster](https://github.com/agnoster/agnoster-zsh-theme)
 
 ## Demo
 ![demo](/images/yuan-zsh.png)
