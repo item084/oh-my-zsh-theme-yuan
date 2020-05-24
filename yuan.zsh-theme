@@ -258,4 +258,4 @@ build_prompt() {
 
 PROMPT='╭─%{%f%b%k%}$(build_prompt) 
 ╰─$ '
-RPROMPT="%B${return_code}%b"
+RPROMPT='%(?..%{$fg[red]%}%? ↵%{$reset_color%}) '
